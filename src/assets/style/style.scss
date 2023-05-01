@@ -1,0 +1,55 @@
+
+.logo{
+    margin-left: 10px;
+  
+}
+ion-button{
+    margin-left: 40px;
+}
+
+ .footer{
+     display: flex;
+     .logo {
+        margin-left: 10px;
+        width: 15em;
+    }
+
+    .divid-r-2{
+      margin-left: 3%;
+
+    }
+
+    .divid-r-1{
+        margin-left: 50%;
+    }
+
+    .gool-text {
+         
+      width: 20em;
+      margin-left: 80px;
+      font-size: larger;
+      font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+      
+    }
+
+    .terms{
+        display: flex;
+        ion-buttons{
+            background-color: black;
+            color: white;
+            padding: 2px;
+            margin-left: 10px;
+            border-radius: 10%;
+        }
+    }
+    .divid-r {
+        display: flex;
+        position: absolute;
+        bottom: 0;
+        margin-left: 40%;
+    }
+    
+
+
+ }
+

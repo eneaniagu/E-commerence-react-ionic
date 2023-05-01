@@ -1,0 +1,34 @@
+ion-tab-bar{
+    height: 5em;
+    .nav-tab{
+        margin-left: -50em;
+    }
+   .v-logo{
+      margin-left: 10em;
+   }
+  
+ .nav-right-0{
+    position: absolute;
+    right: 10em;
+ }
+ .nav-right-2 {
+    position: absolute;
+    right: 14em;
+ }
+ .nav-right-3 {
+    position: absolute;
+    right: 18em;
+ }
+
+ .notify{
+    font-size: 2em;
+ }
+
+ ion-searchbar{
+   margin-top: 40px;
+     width: 10em;
+     position: absolute;
+ }
+
+}
+

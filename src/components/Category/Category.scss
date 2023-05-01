@@ -1,0 +1,26 @@
+
+.slider-img {
+    width: auto;
+}
+
+.slide-img {
+    height: 550px;
+    overflow: hidden;
+}
+ion-card-header {
+    display: flex;
+    flex-flow: column-reverse;
+  }
+ion-card-header.ios {
+    display: flex;
+    flex-flow: column-reverse;
+  }
+
+  .category-card{
+    display: flex;
+  }
+
+  .category-card.ios{
+      display: block;
+    flex-flow: column-reverse;
+  }
